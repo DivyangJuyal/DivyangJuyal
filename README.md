@@ -52,9 +52,6 @@ Founder of **CashPulse.AI** — a Bharat-first AI fintech product
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,aws,vercel,git,github,vscode,figma&perline=5" />
 </p>
-
-<img src="https://img.shields.io/badge/Sarvam%20AI-Indian%20LLM-FF0080?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Sarvam%20AI-111827?style=for-the-badge&logo=openai&logoColor=FF0080"/>
 
 ## 🇮🇳 Building on IndiaStack
