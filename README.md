@@ -1,4 +1,4 @@
-![snake gif](https://github.com/DivyangJuywl/DivyangJuyal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg)
 
 
 
