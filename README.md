@@ -9,7 +9,7 @@
 
 [
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DivyangJuyal)
+![trophy](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&no-bg=true)
 
 ](https://github.com/ryo-ma/github-profile-trophy)
 
