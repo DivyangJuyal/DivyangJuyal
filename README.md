@@ -1,5 +1,6 @@
 ![snake gif](https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=DivyangJuyal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 # 💫 About Me:
