@@ -80,14 +80,12 @@ Founder of **CashPulse.AI** — a Bharat-first fintech product
 
 ### 🔥 CashPulse.AI  
 AI-powered receivables intelligence platform for MSMEs  
-→ Predict late payments  
-→ Automate collections & legal workflows  
 
 ### 📊 Startup Analytics Dashboard  
-Real-time financial & operational insights  
+Tracks financial & operational metrics  
 
 ### 🤖 Automation Systems  
-Tools to optimize workflows & productivity  
+Improves workflows & productivity  
 
 ---
 
