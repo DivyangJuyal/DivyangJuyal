@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF0080&height=200&section=header&text=Divyang%20Juyal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyangJuyal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder;Turning+Ideas+Into+Products🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DivyangJuyal&color=ff0080&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -14,13 +18,15 @@
 
 ## 💫 About Me
 
-🚀 BCA Student | Aspiring Startup Founder  
+🚀 BCA Student | Building in Public  
 
-Building a **Bharat-first B2B receivables intelligence platform**
+Founder of **CashPulse.AI** — a Bharat-first fintech product  
 
-- 📊 Predicts late payments  
-- ⚖️ Automates legal workflows (MSMED Act)  
-- 🧠 Creates Buyer Reliability Score for India  
+- 📊 Predicts late payments using AI  
+- ⚖️ Automates MSME legal workflows  
+- 🧠 Builds India’s Buyer Reliability Score  
+
+💡 Mission: Solve real problems for Indian businesses  
 
 ---
 
@@ -35,15 +41,15 @@ Building a **Bharat-first B2B receivables intelligence platform**
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,python,fastapi,nodejs,react,postgres,redis,supabase,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,html,python,fastapi,nodejs,react,postgres,redis,supabase,aws,vercel&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical" height="160"/>
@@ -56,7 +62,7 @@ Building a **Bharat-first B2B receivables intelligence platform**
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&margin-w=15"/>
@@ -70,20 +76,22 @@ Building a **Bharat-first B2B receivables intelligence platform**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Building
 
 ### 🔥 CashPulse.AI  
-AI-powered receivables intelligence for MSMEs  
+AI-powered receivables intelligence platform for MSMEs  
+→ Predict late payments  
+→ Automate collections & legal workflows  
 
 ### 📊 Startup Analytics Dashboard  
-Tracks financial & operational metrics  
+Real-time financial & operational insights  
 
-### 🤖 Automation Tools  
-Improves workflows & productivity  
+### 🤖 Automation Systems  
+Tools to optimize workflows & productivity  
 
 ---
 
-## ✨ Quote
+## ✨ Thought
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
