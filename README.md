@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake-dark.svg)
+
 # 💫 About Me:
 BCA Student | Aspiring Startup Founder<br>Powered B2B receivables intelligence & smart collections platform for Indian MSMEs — predicts late payments, automates legal notices under the MSMED Act, and builds India's first Buyer Reliability Score.
 
