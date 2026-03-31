@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DivyangJuyal/DivyangJuyal/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -27,8 +27,7 @@ Founder of **CashPulse.AI** — a Bharat-first AI fintech product
 - 📊 Predicts late B2B payments using AI
 - ⚖️ Automates MSME legal workflows under MSMED Act
 - 🧠 Building India's first Buyer Reliability Score
-- 🎮 Managing **Bolt United Esports** — Free Fire team
-- 🎵 Hindi/Urdu songwriter in Anuv Jain's style
+- 🎵 Hindi/Urdu songwriter
 
 💡 **Mission:** Solve real problems for Indian businesses
 
@@ -63,8 +62,6 @@ Founder of **CashPulse.AI** — a Bharat-first AI fintech product
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔥 **CashPulse.AI** | AI-powered B2B receivables intelligence for Indian MSMEs | Python, FastAPI, React, IndiaStack |
-| 🤖 **BharatAgent** | AI agent infra for Indian businesses on WhatsApp | Node.js, Supabase, Sarvam AI |
-| 🎮 **BUE Esports Website** | Official site for Bolt United Esports | HTML, CSS, JavaScript |
 | 🌦️ **Weather App** | Desktop weather app with GUI | Python, Tkinter |
 
 </p>
