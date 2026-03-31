@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder;Turning+Ideas+Into+Products🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder;Turning+Ideas+Into+Products🚀" />
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@
 
 ## 💫 About Me
 
-🚀 BCA Student | Building in Public  
+🚀 BCA Student | Building in Public
 
-Founder of **CashPulse.AI** — a Bharat-first fintech product  
+Founder of **CashPulse.AI** — a Bharat-first fintech product
 
-- 📊 Predicts late payments using AI  
-- ⚖️ Automates MSME legal workflows  
-- 🧠 Builds India’s Buyer Reliability Score  
+- 📊 Predicts late payments using AI
+- ⚖️ Automates MSME legal workflows
+- 🧠 Builds India's Buyer Reliability Score
 
-💡 Mission: Solve real problems for Indian businesses  
+💡 Mission: Solve real problems for Indian businesses
 
 ---
 
@@ -52,12 +52,12 @@ Founder of **CashPulse.AI** — a Bharat-first fintech product
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangJuyal&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DivyangJuyal&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -65,27 +65,29 @@ Founder of **CashPulse.AI** — a Bharat-first fintech product
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&margin-w=15"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangJuyal&theme=react-dark"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangJuyal&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 🚀 Building
 
-### 🔥 CashPulse.AI  
-AI-powered receivables intelligence platform for MSMEs  
+### 🔥 CashPulse.AI
+AI-powered receivables intelligence platform for MSMEs
 
-### 📊 Startup Analytics Dashboard  
-Tracks financial & operational metrics  
+### 📊 Startup Analytics Dashboard
+Tracks financial & operational metrics
 
-### 🤖 Automation Systems  
-Improves workflows & productivity  
+### 🤖 Automation Systems
+Improves workflows & productivity
 
 ---
 
@@ -93,4 +95,8 @@ Improves workflows & productivity
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:8A2BE2&height=100&section=footer" />
 </p>
