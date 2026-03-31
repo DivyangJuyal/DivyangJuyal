@@ -6,7 +6,12 @@
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DivyangJuyal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) 
-https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&row=1)
+
+[
+
+![trophy](https://github-profile-trophy.vercel.app/?username=DivyangJuyal)
+
+](https://github.com/ryo-ma/github-profile-trophy)
 
 # 💫 About Me:
 BCA Student | Aspiring Startup Founder<br>Powered B2B receivables intelligence & smart collections platform for Indian MSMEs — predicts late payments, automates legal notices under the MSMED Act, and builds India's first Buyer Reliability Score.
