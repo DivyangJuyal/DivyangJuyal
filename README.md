@@ -1,5 +1,11 @@
 ![snake gif](https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg)
 
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blueviolet&width=435&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder)
+
+](https://git.io/typing-svg)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=DivyangJuyal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
