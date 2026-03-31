@@ -21,8 +21,7 @@ BCA Student | Aspiring Startup Founder<br>Powered B2B receivables intelligence &
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical)
-![streak](https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical)     ![streak](https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=DivyangJuyal&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DivyangJuyal&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangJuyal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
