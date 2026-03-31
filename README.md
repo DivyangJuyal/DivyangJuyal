@@ -1,11 +1,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=tokyonight)
+![Snake animation](https://raw.githubusercontent.com/DivyangJuyal/DivyangJuyal/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Trophies](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=tokyonight&no-frame=true&margin-w=4))
-
-
-![Snake animation](https://raw.githubusercontent.com/DivyangJuyal/DivyangJuyal/output/github-contribution-grid-snake-dark.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=tokyonight&no-frame=true&margin-w=4)
 
 # 💫 About Me:
 BCA Student | Aspiring Startup Founder<br>Powered B2B receivables intelligence & smart collections platform for Indian MSMEs — predicts late payments, automates legal notices under the MSMED Act, and builds India's first Buyer Reliability Score.
