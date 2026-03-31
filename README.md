@@ -1,47 +1,90 @@
-![snake gif](https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DivyangJuyal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blueviolet&width=435&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder)
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=DivyangJuyal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) 
-
-
-# 💫 About Me:
-BCA Student | Aspiring Startup Founder<br>Powered B2B receivables intelligence & smart collections platform for Indian MSMEs — predicts late payments, automates legal notices under the MSMED Act, and builds India's first Buyer Reliability Score.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DivyangJuyal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_divyang_juyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyang-juyal-b78167381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyangjuyal10@gmail.com) 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical)
-![streak](https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=DivyangJuyal&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DivyangJuyal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangJuyal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-## 📈 Contribution Graph
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=DivyangJuyal&theme=react-dark)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DivyangJuyal&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 BCA Student | Aspiring Startup Founder  
+
+Building a **Bharat-first B2B receivables intelligence platform**
+
+- 📊 Predicts late payments  
+- ⚖️ Automates legal workflows (MSMED Act)  
+- 🧠 Creates Buyer Reliability Score for India  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/DivyangJuyal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_divyang_juyal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/divyang-juyal-b78167381"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:divyangjuyal10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,python,fastapi,nodejs,react,postgres,redis,supabase,aws,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangJuyal&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangJuyal&theme=react-dark"/>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 CashPulse.AI  
+AI-powered receivables intelligence for MSMEs  
+
+### 📊 Startup Analytics Dashboard  
+Tracks financial & operational metrics  
+
+### 🤖 Automation Tools  
+Improves workflows & productivity  
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
