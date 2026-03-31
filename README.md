@@ -54,9 +54,7 @@ Founder of **CashPulse.AI** — a Bharat-first AI fintech product
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CashPulse.AI-Building-FF0080?style=for-the-badge&logo=rocket"/>
-  <img src="https://img.shields.io/badge/BharatAgent-In%20Development-8A2BE2?style=for-the-badge&logo=whatsapp"/>
-  <img src="https://img.shields.io/badge/BUE%20Esports-Active-00FF00?style=for-the-badge&logo=game-controller"/>
+  <img src="https://img.shields.io/badge/Currently%20Learning-AI%20Agents%20%7C%20IndiaStack-FF0080?style=for-the-badge"/>
 </p>
 
 ---
