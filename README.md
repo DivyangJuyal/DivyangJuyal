@@ -3,15 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder;Turning+Ideas+Into+Products🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Building+CashPulse.AI;AI+Founder+%7C+BCA+Student;Bharat-first+Startup+Builder;Turning+Ideas+Into+Products+🚀" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DivyangJuyal&color=ff0080&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DivyangJuyal/DivyangJuyal/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -20,13 +22,15 @@
 
 🚀 BCA Student | Building in Public
 
-Founder of **CashPulse.AI** — a Bharat-first fintech product
+Founder of **CashPulse.AI** — a Bharat-first AI fintech product
 
-- 📊 Predicts late payments using AI
-- ⚖️ Automates MSME legal workflows
-- 🧠 Builds India's Buyer Reliability Score
+- 📊 Predicts late B2B payments using AI
+- ⚖️ Automates MSME legal workflows under MSMED Act
+- 🧠 Building India's first Buyer Reliability Score
+- 🎮 Managing **Bolt United Esports** — Free Fire team
+- 🎵 Hindi/Urdu songwriter in Anuv Jain's style
 
-💡 Mission: Solve real problems for Indian businesses
+💡 **Mission:** Solve real problems for Indian businesses
 
 ---
 
@@ -44,7 +48,25 @@ Founder of **CashPulse.AI** — a Bharat-first fintech product
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,python,fastapi,nodejs,react,postgres,redis,supabase,aws,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,python,javascript,react,nextjs,fastapi,nodejs&perline=5" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,aws,vercel,git,github,vscode,figma&perline=5" />
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔥 **CashPulse.AI** | AI-powered B2B receivables intelligence for Indian MSMEs | Python, FastAPI, React, IndiaStack |
+| 🤖 **BharatAgent** | AI agent infra for Indian businesses on WhatsApp | Node.js, Supabase, Sarvam AI |
+| 🎮 **BUE Esports Website** | Official site for Bolt United Esports | HTML, CSS, JavaScript |
+| 🌦️ **Weather App** | Desktop weather app with GUI | Python, Tkinter |
+
 </p>
 
 ---
@@ -52,20 +74,12 @@ Founder of **CashPulse.AI** — a Bharat-first fintech product
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=DivyangJuyal&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DivyangJuyal&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
@@ -78,24 +92,13 @@ Founder of **CashPulse.AI** — a Bharat-first fintech product
 
 ---
 
-## 🚀 Building
-
-### 🔥 CashPulse.AI
-AI-powered receivables intelligence platform for MSMEs
-
-### 📊 Startup Analytics Dashboard
-Tracks financial & operational metrics
-
-### 🤖 Automation Systems
-Improves workflows & productivity
-
----
-
 ## ✨ Thought
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:8A2BE2&height=100&section=footer" />
