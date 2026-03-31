@@ -1,3 +1,10 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=DivyangJuyal&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=DivyangJuyal&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=tokyonight&row=1)
+
+
+
 ![Snake animation](https://github.com/DivyangJuyal/DivyangJuyal/blob/output/github-contribution-grid-snake-dark.svg)
 
 # 💫 About Me:
