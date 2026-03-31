@@ -32,13 +32,16 @@ BCA Student | Aspiring Startup Founder<br>Powered B2B receivables intelligence &
 ![](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
+
+## 📈 Contribution Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=DivyangJuyal&theme=react-dark)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DivyangJuyal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Contribution Graph
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=DivyangJuyal&theme=react-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
